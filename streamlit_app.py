@@ -499,6 +499,6 @@ with st.container(horizontal_alignment="center"):
 
     st.link_button(
         "Zum GitHub-Repository",
-        "https://github.com/DEIN-USERNAME/active_directory_kantgym",
+        "https://github.com/publiusTacitus/active_directory_kantgym",
         use_container_width=False
     )
