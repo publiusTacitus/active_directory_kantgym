@@ -1,0 +1,22 @@
+﻿[MUSTER – PASSWORT UNKENNTLICH GEMACHT]
+
+Kant-Gymnasium
+Benutzerkonto
+
+========================================================
+
+Personalnummer: L29999
+Name: Martha Musterlehrerin
+Benutzername: mmusterlehrerin@kant-gymnasium.test
+Benutzertyp: Lehrkraefte
+
+Temporäres Passwort: **************
+
+========================================================
+
+Hinweis:
+
+Dies ist ein temporäres Erstpasswort.
+Beim ersten Anmelden muss das Passwort geändert werden.
+
+========================================================

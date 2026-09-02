@@ -1,0 +1,17 @@
+﻿"Personalnummer";"Vorname";"Nachname";"BenutzerTyp";"Klassen"
+"S30001";"Sebastian";"Schuster";"Schueler";"8a"
+"S30002";"Hellmuth";"Graf";"Schueler";"8a"
+"S30031";"Laura-Isolde";"Schmiedecke";"Schueler";"8b"
+"S30032";"Sebastian";"Schuster";"Schueler";"8b"
+"S30251";"Wenke";"Hölzenbecher";"Schueler";"9a"
+"S30252";"Irmhild";"Anders";"Schueler";"9a"
+"S30281";"Pirmin";"Kitzmann";"Schueler";"9b"
+"S30282";"Moritz Thomas";"Städelmann";"Schueler";"9b"
+"L20001";"Tanja";"Hörle";"Lehrkraefte";"8a"
+"L20002";"Janine";"Lübs-Schmitt";"Lehrkraefte";"8b"
+"L20003";"Edmund";"Trapp";"Lehrkraefte";"9a"
+"L20004";"Sigmar Thoralf";"Bruder";"Lehrkraefte";"9b"
+"L20005";"Juan";"Lange";"Lehrkraefte";"8a|8b|9a|9b"
+"V10001";"Traudl";"Bruder";"Verwaltung";
+"V10002";"Dimitrios";"Schaaf";"Verwaltung";
+"IT1000";"Gerhardt";"Fuchs";"IT";

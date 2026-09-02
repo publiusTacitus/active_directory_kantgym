@@ -1,0 +1,22 @@
+﻿[MUSTER – PASSWORT UNKENNTLICH GEMACHT]
+
+Kant-Gymnasium
+Benutzerkonto
+
+========================================================
+
+Personalnummer: S39999
+Name: Martin Musterschueler
+Benutzername: mmusterschueler@kant-gymnasium.test
+Benutzertyp: Schueler
+
+Temporäres Passwort: **************
+
+========================================================
+
+Hinweis:
+
+Dies ist ein temporäres Erstpasswort.
+Beim ersten Anmelden muss das Passwort geändert werden.
+
+========================================================

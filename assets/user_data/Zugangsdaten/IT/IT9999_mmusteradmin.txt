@@ -1,0 +1,22 @@
+﻿[MUSTER – PASSWORT UNKENNTLICH GEMACHT]
+
+Kant-Gymnasium
+Benutzerkonto
+
+========================================================
+
+Personalnummer: IT9999
+Name: Max Musteradmin
+Benutzername: mmusteradmin@kant-gymnasium.test
+Benutzertyp: IT
+
+Temporäres Passwort: **************
+
+========================================================
+
+Hinweis:
+
+Dies ist ein temporäres Erstpasswort.
+Beim ersten Anmelden muss das Passwort geändert werden.
+
+========================================================

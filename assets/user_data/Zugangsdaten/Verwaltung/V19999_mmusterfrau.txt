@@ -1,0 +1,22 @@
+﻿[MUSTER – PASSWORT UNKENNTLICH GEMACHT]
+
+Kant-Gymnasium
+Benutzerkonto
+
+========================================================
+
+Personalnummer: V19999
+Name: Martina Musterfrau
+Benutzername: mmusterfrau@kant-gymnasium.test
+Benutzertyp: Verwaltung
+
+Temporäres Passwort: **************
+
+========================================================
+
+Hinweis:
+
+Dies ist ein temporäres Erstpasswort.
+Beim ersten Anmelden muss das Passwort geändert werden.
+
+========================================================
