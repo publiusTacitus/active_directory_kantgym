@@ -64,17 +64,19 @@ st.header("**Projektüberblick**", text_alignment="center")
 
 st.space("xxsmall")
 
-st.markdown(
-    """
-    Dieses Projekt bildet eine realistische Active-Directory-Umgebung für ein fiktives deutsches Gymnasium ab. 
-    Ziel ist eine zentral verwaltete Windows-Client-Infrastruktur mit automatisierter Benutzerverwaltung,
-    rollenbasierten Berechtigungen, Dateifreigaben und Gruppenrichtliniensteuerung.
+with st.container(border=True, horizontal_alignment="center"):
 
-    Die Umgebung wurde vollständig in Hyper-V aufgebaut und anschließend 
-    anhand verschiedener Benutzer- und Client-Szenarien getestet.
-    """,
-    text_alignment="center"
-)
+    st.markdown(
+        """
+        Dieses Projekt bildet eine realistische Active-Directory-Umgebung für ein fiktives deutsches Gymnasium ab. 
+        Ziel ist eine zentral verwaltete Windows-Client-Infrastruktur mit automatisierter Benutzerverwaltung,
+        rollenbasierten Berechtigungen, Dateifreigaben und Gruppenrichtliniensteuerung.
+    
+        Die Umgebung wurde vollständig in Hyper-V aufgebaut und anschließend 
+        anhand verschiedener Benutzer- und Client-Szenarien getestet.
+        """,
+        text_alignment="center"
+    )
 
 st.space("small")
 
