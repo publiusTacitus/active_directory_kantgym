@@ -96,33 +96,6 @@ with col4:
 
 
 # ---------------------------------------------------------
-# Technologien
-# ---------------------------------------------------------
-
-st.markdown("---")
-
-st.header("1. Technologien", text_alignment="center")
-
-st.space("xxsmall")
-
-tech_cols = st.columns(6)
-
-technologies = [
-    ("Virtualisierung", "Hyper-V"),
-    ("Server", "Windows Server 2025"),
-    ("Clients", "Windows 11 Education"),
-    ("Verzeichnisdienst", "Active Directory"),
-    ("Automatisierung", "PowerShell"),
-    ("Dokumentation", "Visio / Streamlit / Markdown"),
-]
-
-for col, (label, value) in zip(tech_cols, technologies):
-    with col:
-        st.markdown(f"**{label}**")
-        st.write(value)
-
-
-# ---------------------------------------------------------
 # Infrastruktur
 # ---------------------------------------------------------
 
@@ -130,7 +103,7 @@ st.markdown("---")
 
 with st.container(horizontal_alignment="center"):
 
-    st.header("2. Infrastruktur", text_alignment="center")
+    st.header("1. Infrastruktur", text_alignment="center")
 
     st.markdown(
         """
@@ -156,7 +129,7 @@ st.markdown("---")
 
 with st.container(horizontal_alignment="center"):
 
-    st.header("3. Active-Directory-Struktur", text_alignment="center")
+    st.header("2. Active-Directory-Struktur", text_alignment="center")
 
     st.markdown(
         """
@@ -181,7 +154,7 @@ st.markdown("---")
 
 with st.container(horizontal_alignment="center"):
 
-    st.header("4. Berechtigungsmodell", text_alignment="center")
+    st.header("3. Berechtigungsmodell", text_alignment="center")
 
     st.markdown(
         """
@@ -213,7 +186,7 @@ st.markdown("---")
 
 with st.container(horizontal_alignment="center"):
 
-    st.header("5. Gruppenrichtlinien", text_alignment="center")
+    st.header("4. Gruppenrichtlinien", text_alignment="center")
 
     st.markdown(
         """
@@ -282,7 +255,7 @@ st.markdown("---")
 
 with st.container(horizontal_alignment="center"):
 
-    st.header("6. Benutzerdaten- und Provisionierungspipeline", text_alignment="center")
+    st.header("5. Benutzerdaten- und Provisionierungspipeline", text_alignment="center")
 
     st.markdown(
         """
@@ -338,7 +311,7 @@ with st.container(horizontal_alignment="center"):
 
 st.markdown("---")
 
-st.header("7. Ergebnis auf dem Client", text_alignment="center")
+st.header("6. Ergebnis auf dem Client", text_alignment="center")
 
 st.markdown(
     """
@@ -382,7 +355,7 @@ with col11:
 
 st.markdown("---")
 
-st.header("8. Tests und Validierung", text_alignment="center")
+st.header("7. Tests und Validierung", text_alignment="center")
 
 st.markdown(
     """
@@ -477,6 +450,33 @@ with gp_col3:
         "gpresult-verwaltung.html",
         "gpresult herunterladen"
     )
+
+
+# ---------------------------------------------------------
+# Technologien
+# ---------------------------------------------------------
+
+st.markdown("---")
+
+st.header("8. Technologien", text_alignment="center")
+
+st.space("xxsmall")
+
+tech_cols = st.columns(6)
+
+technologies = [
+    ("Virtualisierung", "Hyper-V"),
+    ("Server", "Windows Server 2025"),
+    ("Clients", "Windows 11 Education"),
+    ("Verzeichnisdienst", "Active Directory"),
+    ("Automatisierung", "PowerShell"),
+    ("Dokumentation", "Visio / Streamlit / Markdown"),
+]
+
+for col, (label, value) in zip(tech_cols, technologies):
+    with col:
+        st.markdown(f"**{label}**")
+        st.write(value)
 
 
 # ---------------------------------------------------------
