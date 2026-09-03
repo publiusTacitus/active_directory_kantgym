@@ -1,4 +1,4 @@
-KANTGYM – Automatisierte Active-Directory-Umgebung
+# KANTGYM – Automatisierte Active-Directory-Umgebung
 
 Dieses Projekt bildet eine zentral verwaltete Windows-Domänenumgebung für das fiktive Kant-Gymnasium ab. 
 Die Umsetzung umfasst die Verwaltung von Benutzern, Computern und Gruppen sowie die Konfiguration von Berechtigungen, 
