@@ -4,18 +4,20 @@ Dieses Projekt bildet eine zentral verwaltete Windows-Domänenumgebung für das 
 Die Umsetzung umfasst die Verwaltung von Benutzern, Computern und Gruppen sowie die Konfiguration von Berechtigungen, 
 Netzwerkfreigaben und Gruppenrichtlinien.
 
-Die Umgebung wurde in einer Hyper-V-Testumgebung mit Windows Server 2025 und Windows 11 Education umgesetzt. 
+Das Projekt wurde in einer Hyper-V-Testumgebung mit Windows Server 2025 und Windows 11 Education umgesetzt. 
 Ein besonderer Schwerpunkt liegt auf der Automatisierung wiederkehrender Administrationsaufgaben mit PowerShell.
 
 Das Projekt ist als technisches Portfolio-Projekt konzipiert und dokumentiert sowohl den Aufbau der Umgebung als 
 auch deren praktische Validierung.
+
+---
 
 ## Projektüberblick
 
 Das Projekt umfasst eine vollständige, für ein Gymnasium modellierte Windows-Domänenumgebung mit folgenden 
 zentralen Komponenten:
 
-- Active-Directory-Domäne **kant-gymnasium.test**
+- Active-Directory-Domäne `kant-gymnasium.test`
 - Windows Server 2025 als zentraler Server `DC01`
 - Benutzer- und Computerverwaltung über Active Directory
 - rollenbasierte Gruppen- und Berechtigungsstruktur
@@ -28,6 +30,8 @@ Die technische Umsetzung wird durch fünf Visio-Diagramme dokumentiert. Eine erg
 stellt die wichtigsten Komponenten, Konfigurationen und Testergebnisse dar.
 
 [STREAMLIT-LIVE-LINK](https://kantgym.streamlit.app/)
+
+---
 
 ## Zielsetzung
 
